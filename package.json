@@ -1,0 +1,17 @@
+{
+  "name": "github_report",
+  "version": "0.1.0",
+  "description": "Create reports of github activity",
+  "main": "githubreport.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "markdown-pdf": "^8.1.1",
+    "moment": "^2.22.1",
+    "phantomjs": "^2.1.7",
+    "sync": "^0.2.5"
+  }
+}
